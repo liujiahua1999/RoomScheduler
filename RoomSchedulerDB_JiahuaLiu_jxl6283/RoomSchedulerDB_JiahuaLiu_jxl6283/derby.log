@@ -1,0 +1,20 @@
+Sun Dec 13 19:24:26 EST 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Dec 13 19:24:29 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-5ea2-5a38-000005e70510 
+on database directory C:\Users\liuji\Downloads\roomscheduler\RoomSchedulerDB_JiahuaLiu_jxl6283\RoomSchedulerDB_JiahuaLiu_jxl6283 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/liuji/Downloads/java_ee_sdk-8u1/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\liuji\Downloads\java_ee_sdk-8u1\glassfish5\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\liuji\Downloads\roomscheduler\RoomSchedulerDB_JiahuaLiu_jxl6283
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Dec 13 19:33:34 EST 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Dec 13 19:33:34 EST 2020:
+Shutting down instance a816c00e-0176-5ea2-5a38-000005e70510 on database directory C:\Users\liuji\Downloads\roomscheduler\RoomSchedulerDB_JiahuaLiu_jxl6283\RoomSchedulerDB_JiahuaLiu_jxl6283 with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+----------------------------------------------------------------
